@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "animeHD",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/tqMDscD.png",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8"
+  },
+  {
+    "id": 2,
+    "nombre": "animes4K",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/MgEN1F8.png",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8"
+  },
+  {
+    "id": 3,
+    "nombre": "animeful4k",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/rdHygJ1.png",
+    "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8"
+  },
+  {
+    "id": 4,
+    "nombre": "animes4KHD",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/crttwAR.png",
+    "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8"
+  },
+  {
+    "id": 5,
+    "nombre": "anime romance",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/pu0BSB7.png",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8"
+  },
+  {
+    "id": 6,
+    "nombre": "animes dragonball",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/PevmfqK.png",
+    "url": "https://tv.huachotv.com/stream.m3u8"
+  },
+  {
+    "id": 7,
+    "nombre": "animes 100novias",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/bkpCGP6.png",
+    "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+  },
+  {
+    "id": 8,
+    "nombre": "animes komisan",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/eYXqkyN.png",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8"
+  },
+  {
+    "id": 9,
+    "nombre": "anime elangel",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/zcehR4M.png",
+    "url": "https://video2.lhdserver.es/cableperu/live.m3u8"
+  },
+  {
+    "id": 10,
+    "nombre": "animes tonikawa",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/VOjLXJd.png",
+    "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
+  }
+]
